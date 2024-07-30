@@ -6,3 +6,4 @@ var a = local_server.getData()
 var b = local_server.getData()
 
 var c = ncr(a,b)
+
