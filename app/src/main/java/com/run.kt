@@ -5,4 +5,4 @@ var local_server = Server()
 var a = local_server.getData()
 var b = local_server.getData()
 
-println(ncr(a,b))
+var c = ncr(a,b)
